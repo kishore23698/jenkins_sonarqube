@@ -35,7 +35,7 @@
                     </goals>
                     <configuration>
                         <publisher>
-                            <contextUrl>http://18.132.204.207:8081/artifactory/</contextUrl>
+                            <contextUrl>http://3.8.91.7:8081/artifactory/</contextUrl>
                             <username>admin</username>
                             <password>Admin@12345</password>
                             <repoKey>libs-release-local</repoKey>
